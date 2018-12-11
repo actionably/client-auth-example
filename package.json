@@ -1,0 +1,16 @@
+{
+  "name": "mock-client-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mock-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.372.0",
+    "express-http-proxy": "^1.5.0"
+  }
+}
